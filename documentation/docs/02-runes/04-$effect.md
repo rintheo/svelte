@@ -179,7 +179,7 @@ Apart from the timing, `$effect.pre` works exactly like `$effect`.
 
 ## `$effect.tracking`
 
-The `$effect.tracking` rune is an advanced feature that tells you whether or not the code is running inside a tracking context, such as an effect or inside your template ([demo](/playground/untitled#H4sIAAAAAAAAE3XP0QrCMAwF0F-JRXAD595rLfgdzodRUyl0bVgzQcb-3VYFQfExl5tDMgvrPCYhT7MI_YBCiiOR2Aq-UxnSDT1jnlOcRlMSlczoiHUXOjYxpOhx5-O12rgAJg4UAwaGhDyR3Gxhjdai4V1v2N2wqus9tC3Y3ifMQjbehaqq4aBhLtEv_Or893icCsdLve-Caj8nBkU67zMO5HtGCfM3sKiWNKhV0zwVaBqd3x3ixVmHFyFLuJyXB-moOe8pAQAA)):
+The `$effect.tracking` rune is an advanced feature that tells you whether or not the code is running inside a tracking context, such as an effect or inside your template ([demo](/playground/untitled#H4sIAAAAAAAACn3O3WrDMAyG4VvRRKEJ5Ofc9Qy9jmUHnlGKmSOLWB0dIfc-3A120LFDvXw8aMM5JipoXjbUTyE094Adsl_qdRYZygclre3NF_qrh8xKrAUN2hLWKOomnjRkLjnRkPKlOUaGkBfJTKxQSK9ijh0caJ4p6KCrD--RL03bnmAcYfap0MRV-Zk0TQvPDraaHunvzX-irtcK6t6eJrbj75tsxUUGpUWSVzKwPRK7HcWBfer7uwN977BDpZuiqWF_3b8Agz3180oBAAA=)):
 
 ```svelte
 <script>
